@@ -17,6 +17,7 @@ White always begins first.
 
 - **Ending the game**
   - The game has ended when a player gets a peg to the other side of the board. That player wins.
+  - If a player has no pegs left, the other player automatically wins.
   - The game is a draw if the same position is repeated thrice, or if a player has no moves.
 
 - **Move notation**
